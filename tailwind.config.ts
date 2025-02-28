@@ -9,6 +9,8 @@ export default {
   theme: {
     extend: {
       colors: {
+        "schoolSky": "#c3ebfa",
+        "schoolSkyLight": "#edf9fg",
       },
     },
   },
